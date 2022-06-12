@@ -12,28 +12,3 @@ You can find the data source on [Kaggle.com](https://www.kaggle.com/imakash3011/
 
 ### Project Details:
 Project details and description will be found in the documentation present in this repository
-
-### Group Members:
-
-<table align='left'>
-   <thead>
-      <tr>
-         <th align='left'>Group Members</th>
-         <th align='left'>Seat Numbers</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>Muhammad Hammad Hassan</td>
-         <td>EP20101030</td>
-      </tr>
-      <tr>
-         <td>Summaiya Muneer</td>
-         <td>EP20101051</td>
-      </tr>
-      <tr>
-         <td>Noor Sahar</td>
-         <td>EP20101044</td>
-      </tr>
-   </tbody>
-</table>
