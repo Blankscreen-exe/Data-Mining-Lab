@@ -22,9 +22,6 @@ Project details and description will be found in the documentation present in th
 1. Predict the customer's response to marketting offers.
 2. Perform Clustering Techniques to categorize the customer base.
 
-**Data Source:**
-[Kaggle.com](https://www.kaggle.com/imakash3011/customer-personality-analysis?select=marketing_campaign.csv)
-
 ------------------
 
 #### Contents:
