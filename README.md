@@ -643,7 +643,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](images/output_28_0.png)
     
 
 
@@ -861,7 +861,7 @@ plt.show()
 
 
     
-![png](output_35_0.png)
+![png](images/output_35_0.png)
     
 
 
@@ -880,7 +880,7 @@ plt.show()
 
 
     
-![png](output_37_0.png)
+![png](images/output_37_0.png)
     
 
 
@@ -903,7 +903,7 @@ plt.show()
 
 
     
-![png](output_39_0.png)
+![png](images/output_39_0.png)
     
 
 
@@ -926,7 +926,7 @@ plt.show()
 
 
     
-![png](output_41_0.png)
+![png](images/output_41_0.png)
     
 
 
@@ -957,7 +957,7 @@ plt.show()
 
 
     
-![png](output_44_0.png)
+![png](images/output_44_0.png)
     
 
 
@@ -982,7 +982,7 @@ plt.show()
 
 
     
-![png](output_46_0.png)
+![png](images/output_46_0.png)
     
 
 
@@ -1031,7 +1031,7 @@ plt.gca().axes.get_yaxis().set_visible(False)
 
 
     
-![png](output_48_0.png)
+![png](images/output_48_0.png)
     
 
 
@@ -1199,7 +1199,7 @@ plt.show()
 
 
     
-![png](output_52_0.png)
+![png](images/output_52_0.png)
     
 
 
@@ -1214,7 +1214,7 @@ plt.show()
 
 
     
-![png](output_53_0.png)
+![png](images/output_53_0.png)
     
 
 
@@ -1298,7 +1298,7 @@ importance.sort_values(by='Importance', ascending=True).plot(kind='barh', figsiz
 
 
     
-![png](output_59_0.png)
+![png](images/output_59_0.png)
     
 
 
@@ -1366,7 +1366,7 @@ print('PCA data shape: ', pca_data.shape)
 
 
     
-![png](output_62_1.png)
+![png](images/output_62_1.png)
     
 
 
@@ -3383,7 +3383,7 @@ plt.show()
 
 
     
-![png](output_80_0.png)
+![png](images/output_80_0.png)
     
 
 
@@ -3446,7 +3446,7 @@ print(classification_report(y_test, predictions))
 
 
     
-![png](output_83_1.png)
+![png](images/output_83_1.png)
     
 
 
@@ -4030,7 +4030,7 @@ plt.show()
 
 
     
-![png](output_98_0.png)
+![png](images/output_98_0.png)
     
 
 
@@ -4074,7 +4074,7 @@ print('Mean K: ', np.mean(k_lst))
 
 
     
-![png](output_99_1.png)
+![png](images/output_99_1.png)
     
 
 
@@ -4103,7 +4103,7 @@ plt.show()
 
 
     
-![png](output_101_0.png)
+![png](images/output_101_0.png)
     
 
 
@@ -4146,7 +4146,7 @@ plt.show()
 
 
     
-![png](output_105_0.png)
+![png](images/output_105_0.png)
     
 
 
@@ -4169,157 +4169,157 @@ for i in df_cluster:
 
 
     
-![png](output_106_1.png)
+![png](images/output_106_1.png)
     
 
 
 
     
-![png](output_106_2.png)
+![png](images/output_106_2.png)
     
 
 
 
     
-![png](output_106_3.png)
+![png](images/output_106_3.png)
     
 
 
 
     
-![png](output_106_4.png)
+![png](images/output_106_4.png)
     
 
 
 
     
-![png](output_106_5.png)
+![png](images/output_106_5.png)
     
 
 
 
     
-![png](output_106_6.png)
+![png](images/output_106_6.png)
     
 
 
 
     
-![png](output_106_7.png)
+![png](images/output_106_7.png)
     
 
 
 
     
-![png](output_106_8.png)
+![png](images/output_106_8.png)
     
 
 
 
     
-![png](output_106_9.png)
+![png](images/output_106_9.png)
     
 
 
 
     
-![png](output_106_10.png)
+![png](images/output_106_10.png)
     
 
 
 
     
-![png](output_106_11.png)
+![png](images/output_106_11.png)
     
 
 
 
     
-![png](output_106_12.png)
+![png](images/output_106_12.png)
     
 
 
 
     
-![png](output_106_13.png)
+![png](images/output_106_13.png)
     
 
 
 
     
-![png](output_106_14.png)
+![png](images/output_106_14.png)
     
 
 
 
     
-![png](output_106_15.png)
+![png](images/output_106_15.png)
     
 
 
 
     
-![png](output_106_16.png)
+![png](images/output_106_16.png)
     
 
 
 
     
-![png](output_106_17.png)
+![png](images/output_106_17.png)
     
 
 
 
     
-![png](output_106_18.png)
+![png](images/output_106_18.png)
     
 
 
 
     
-![png](output_106_19.png)
+![png](images/output_106_19.png)
     
 
 
 
     
-![png](output_106_20.png)
+![png](images/output_106_20.png)
     
 
 
 
     
-![png](output_106_21.png)
+![png](images/output_106_21.png)
     
 
 
 
     
-![png](output_106_22.png)
+![png](images/output_106_22.png)
     
 
 
 
     
-![png](output_106_23.png)
+![png](images/output_106_23.png)
     
 
 
 
     
-![png](output_106_24.png)
+![png](images/output_106_24.png)
     
 
 
 
     
-![png](output_106_25.png)
+![png](images/output_106_25.png)
     
 
 
 
     
-![png](output_106_26.png)
+![png](images/output_106_26.png)
     
 
 
@@ -4360,7 +4360,7 @@ plt.show()
 
 
     
-![png](output_109_0.png)
+![png](images/output_109_0.png)
     
 
 
@@ -4408,7 +4408,7 @@ plt.show()
 
 
     
-![png](output_113_0.png)
+![png](images/output_113_0.png)
     
 
 
@@ -4433,157 +4433,157 @@ for i in df_cluster:
 
 
     
-![png](output_114_1.png)
+![png](images/output_114_1.png)
     
 
 
 
     
-![png](output_114_2.png)
+![png](images/output_114_2.png)
     
 
 
 
     
-![png](output_114_3.png)
+![png](images/output_114_3.png)
     
 
 
 
     
-![png](output_114_4.png)
+![png](images/output_114_4.png)
     
 
 
 
     
-![png](output_114_5.png)
+![png](images/output_114_5.png)
     
 
 
 
     
-![png](output_114_6.png)
+![png](images/output_114_6.png)
     
 
 
 
     
-![png](output_114_7.png)
+![png](images/output_114_7.png)
     
 
 
 
     
-![png](output_114_8.png)
+![png](images/output_114_8.png)
     
 
 
 
     
-![png](output_114_9.png)
+![png](images/output_114_9.png)
     
 
 
 
     
-![png](output_114_10.png)
+![png](images/output_114_10.png)
     
 
 
 
     
-![png](output_114_11.png)
+![png](images/output_114_11.png)
     
 
 
 
     
-![png](output_114_12.png)
+![png](images/output_114_12.png)
     
 
 
 
     
-![png](output_114_13.png)
+![png](images/output_114_13.png)
     
 
 
 
     
-![png](output_114_14.png)
+![png](images/output_114_14.png)
     
 
 
 
     
-![png](output_114_15.png)
+![png](images/output_114_15.png)
     
 
 
 
     
-![png](output_114_16.png)
+![png](images/output_114_16.png)
     
 
 
 
     
-![png](output_114_17.png)
+![png](images/output_114_17.png)
     
 
 
 
     
-![png](output_114_18.png)
+![png](images/output_114_18.png)
     
 
 
 
     
-![png](output_114_19.png)
+![png](images/output_114_19.png)
     
 
 
 
     
-![png](output_114_20.png)
+![png](images/output_114_20.png)
     
 
 
 
     
-![png](output_114_21.png)
+![png](images/output_114_21.png)
     
 
 
 
     
-![png](output_114_22.png)
+![png](images/output_114_22.png)
     
 
 
 
     
-![png](output_114_23.png)
+![png](images/output_114_23.png)
     
 
 
 
     
-![png](output_114_24.png)
+![png](images/output_114_24.png)
     
 
 
 
     
-![png](output_114_25.png)
+![png](images/output_114_25.png)
     
 
 
 
     
-![png](output_114_26.png)
+![png](images/output_114_26.png)
     
 
 
